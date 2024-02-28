@@ -90,7 +90,7 @@ class MyApp(QWidget):
     def initUI(self):
 
         #타이틀
-        self.setWindowTitle('롤 내전 팀 메이커')
+        self.setWindowTitle('롤 내전 팀 메이커v1.1')
 
         #창 크기 설정
         self.resize(500, 1000)
@@ -499,7 +499,7 @@ class MyApp(QWidget):
             self.P9Pref2.addItems(Positions)
     
     def NotiEvent(self):
-        QMessageBox.information(self,'변경사항','1. 포지션 선택에 상관없음 추가(1지망 상관없음 선택 시 2지망도 상관없음으로 고정)\n\n2. 1지망 선택 시 2지망에 해당 1지망 선택지 비활성화\n\n3. 지망 반영하지 않는 랜덤 팀 배치 버튼 추가\n\n4. 20% 확률로 각 인원의 1,2 지망이 랜덤으로 변경되게 하는 체크 박스 추가\n\n5. 팀 배정 후 중복 인원이 생기던 버그 수정\n')
+        QMessageBox.information(self,'v1.1 변경사항','1. 포지션 선택에 상관없음 추가(1지망 상관없음 선택 시 2지망도 상관없음으로 고정)\n\n2. 1지망 선택 시 2지망에 해당 1지망 선택지 비활성화\n\n3. 지망 반영하지 않는 랜덤 팀 배치 버튼 추가\n\n4. 20% 확률로 각 인원의 1,2 지망이 랜덤으로 변경되게 하는 체크 박스 추가\n\n5. 팀 배정 후 중복 인원이 생기던 버그 수정\n')
 
 
 if __name__ == '__main__':
