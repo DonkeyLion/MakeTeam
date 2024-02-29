@@ -19,3 +19,6 @@
 ### 5. 1, 2지망 인원을 모두 배치한 후에 남은 인원은 남는 포지션에 랜덤으로 배치합니다.
 
 #### 다운로드 링크: https://drive.google.com/file/d/1-bcXMXHAo_UnkaIqY6n9Y5fuFAeyTT9u/view?usp=sharing
+
+
+#### (pyinstaller로 생성된 exe 파일이라 보안 프로그램 상에서는 의심스러운 파일로 분류가 됩니다.)
