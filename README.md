@@ -17,3 +17,5 @@
 
 
 ### 5. 1, 2지망 인원을 모두 배치한 후에 남은 인원은 남는 포지션에 랜덤으로 배치합니다.
+
+#### 다운로드 링크: https://drive.google.com/file/d/1-bcXMXHAo_UnkaIqY6n9Y5fuFAeyTT9u/view?usp=sharing
